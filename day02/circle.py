@@ -13,4 +13,3 @@ circumference = 2 * math.pi * radius
 # Display the result
 print(f"The area of the circle with radius {radius} {unit} is {area: .2f} {unit}2")
 print(f"The circumference of the circle with radius {radius} {unit} is {circumference: .2f} {unit}")
-
